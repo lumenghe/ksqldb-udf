@@ -1,5 +1,4 @@
 # KSQL UDF/UDAF Examples (Tutorial)
-# KSQL UDF/UDAF Examples (Tutorial)
 
 Example implementations of
 [UDFs](https://docs.confluent.io/current/ksql/docs/developer-guide/udf.html) (user-defined functions, like `FLOOR`, `MASK`) and
